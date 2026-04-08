@@ -46,9 +46,9 @@ I don’t just write code. I solve real problems, ship fast, and iterate.
 - Improving system design skills  
 - Exploring Web3 + AI integrations  
 
+ 
+
 ---
-
-
 
 ## 📈 GitHub Stats
 
@@ -56,17 +56,20 @@ I don’t just write code. I solve real problems, ship fast, and iterate.
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Project
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+Master Video controller 
+- you can control any player on web (netflix,hotstar,cruncyroll)
+- it painfull sometime 1x is slow , 1.25 is fast . chosse your comforatable play speed
+- ![https://chromewebstore.google.com/detail/video-player-god/apclpeooikdpcnkjindcnlecpccakcjj?hl=en-US&utm_source=ext_sidebar]
 
 ---
 
 ## 🤝 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
-- Twitter/X: https://twitter.com/YOUR_USERNAME  
-- Email: your@email.com  
+- LinkedIn: https://linkedin.com/in/join2akshay
+- Twitter/X: https://twitter.com/join2akshay
+- Email: tiwariakshay690@gmail.com  
 
 ---
 
